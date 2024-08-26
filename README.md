@@ -1,4 +1,4 @@
-# Phincon Crud Task Management Website
+# Task Management Website
 
 This project is a CRUD Task Management application built with a React TypeScript frontend and a NestJs backend that interfaces with a PostgreSQL database.
 The project is structured into two main directories: `frontendTS` and `backend`.
@@ -15,8 +15,8 @@ Make sure you have the following installed on your system:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/PhinconCrudTaskManagement
-cd phincon-crud-task-management
+git clone https://github.com/your-username/TaskManagement
+cd TaskManagement
 ```
 
 ### 2. Install Dependencies
